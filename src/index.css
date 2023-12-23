@@ -45,7 +45,6 @@ p {
   flex-direction: column;
   justify-content: space-between;
   position: relative;
-  top: 10%;
 }
 
 .top {
