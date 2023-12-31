@@ -155,7 +155,7 @@ const Search = styled("input")({
   borderRadius: "25px",
   border: " 1px solid rgba(255, 255, 255, 0.8)",
   background: " rgba(255, 255, 255, 0.2)",
-  color: " #fff",
+  color: " white",
 });
 
 export default App;
